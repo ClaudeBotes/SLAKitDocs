@@ -2,6 +2,13 @@
 The purpose of this project is to show how the SLA Kit can be used to build any mobile app that can be customised in minutes to support a wide variaty of designs, user interactions and animations.
 
 * [Our Philosophy](#Philosophy)
+* [Features for Designing Your App](#ForDesigners)
+  * [Design Properties](#DesignProperties)
+  * [Brand / Color Palette](#Brand)
+  * [Colors](#Colors)
+  * [Layout](#Layout)
+  * [Symbols ( Common Components )](#Symbols)
+  * [Animations](#Animation)
 * [Features for Developers](#ForDevs)
 
 # <a name="Philosophy"></a>Our Philosophy
@@ -18,11 +25,11 @@ All features are built according to three principles:
 
 # Supported Features
 
-## For Designsers and Business
+## <a name="ForDesigners"></a>For Designsers and Business
 
 Style any of the properties for any element on screen, same way designers would in **Sketch** or **any other design tool**.
 
-### **Design Properties**
+### <a name="DesignProperties"></a>**Design Properties**
  
 * Text
 * Text Color
@@ -48,7 +55,7 @@ Style any of the properties for any element on screen, same way designers would 
 * Italics
 * Prefered Status Bar Style
 
-### **Brand**
+### <a name="Brand"></a>**Brand**
 
 Same as when you design your brand, we also support the ability to define your brand or color pallete. You will notice that with all the color properties you need to provide a color name. This is to ensure your StyleKit uses your defined brand, and prevents your application and developers from using 50 different shades of a particular color. 
 
@@ -56,7 +63,7 @@ Same as when you design your brand, we also support the ability to define your b
 * 14 pre defined properties which you can assign colors to.
 * In case 14 colors are not enough, it is posible to extend your color pallete with as many colors as you may need.
 
-#### Color Palette
+#### <a name="Colors"></a>Color Palette
 
 * primary
 * secondary 
@@ -74,7 +81,7 @@ Same as when you design your brand, we also support the ability to define your b
 * special3
 * custom
 
-### **Layout**
+### <a name="Layout"></a>**Layout**
 Everything on the UI is ofcourse concerned about how it needs to be positioned related to other UI elements. Depending on your experience as a designer, definately as a developer - we talk about anchoring and how many units from a particular anchor. This ensure we can design and build for auto layout, supporting multiple device sizes.
 
 At this point we do not support defining anchors, but **we do support defining layout configurations for:**
@@ -87,11 +94,11 @@ At this point we do not support defining anchors, but **we do support defining l
 * Height
 
 
-### **Symbols ( Common Components )**
+### <a name="Symbols"></a>**Symbols ( Common Components )**
 
 As in design, and as in development, you can define a set of symbols or common components that can be reused accross your application to reduce duplication. As with symbols and common components, it is also posible to override these with isntance values.
 
-### **Animation**
+### <a name="Animation"></a>**Animation**
 
 In the SLA Kit we made provision for designers and developers to define custom preferences ( variables ) which can be used for any purpose you can dream of. One of the first places you would want to use these custom preferences are when you need to deal with Animations.
 
