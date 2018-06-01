@@ -1,7 +1,10 @@
 # Overview
 The purpose of this project is to show how the SLA Kit can be used to build any mobile app that can be customised in minutes to support a wide variaty of designs, user interactions and animations.
 
-# Our Philosophy
+* [Our Philosophy](#Philosophy)
+* [Features for Developers](#ForDevs)
+
+# <a name="Philosophy"></a>Our Philosophy
 
 All features are built according to three principles:
 
@@ -94,7 +97,7 @@ In the SLA Kit we made provision for designers and developers to define custom p
 
 TODO: Add example
 #
-## For Developers
+##  <a name="ForDevs"></a>For Developers
 
 If you're a developer and you've read this far, you may already know that we've made sure developers can take advantage of some key patterns they're already familiar with, starting with simpliyfing your application code.
 
